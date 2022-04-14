@@ -10,7 +10,7 @@ This project is a clone of [https://github.com/lhlyu/goreporter](https://github.
 - go 1.16+
 - [Graphviz](http://www.graphviz.org/download/)
 
-`go get -u github.com/guanlh/goreporter`
+`go install github.com/guanlh/goreporter`
 
 ## Run it
 
